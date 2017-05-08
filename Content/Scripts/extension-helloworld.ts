@@ -16,7 +16,7 @@ try {
         process.nextTick(() => cleanup = main());
 
         // live-reloadable function should return its cleanup function
-        return () => cleanup()
+        return () => (<Function>cleanup)()
     }
 }
 catch (e) {
