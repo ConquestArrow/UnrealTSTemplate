@@ -13,6 +13,7 @@
         "**/*.uasset":true,
         "**/*.umap":true,
         "**/*.uplugin":true,
-        "Content/Scripts/node_modules":true
+        "Content/Scripts/node_modules":true,
+        "Content/Scripts/*.js":true
     }    
 }
