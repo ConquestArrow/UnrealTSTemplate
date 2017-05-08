@@ -10,7 +10,7 @@ This is a template project for [Unreal.js](https://github.com/ncsoft/Unreal.js) 
 4. `npm i`
 5. `tsc -w`
 
-# [tsconfig.json](./Content/Script/tsconfig.json)
+# [tsconfig.json](./blob/master/Content/Scripts/tsconfig.json)
 
 Typescript settings for Unreal.js script compile.
 
