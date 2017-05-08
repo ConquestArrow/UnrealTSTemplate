@@ -1,0 +1,23 @@
+{
+  "name": "your_module_name",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "unrealengine": "^4.15.1",
+    "unreal.js": "^0.2.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Unreal.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^7.0.18",
+    "typescript": "^2.3.2"
+  }
+}

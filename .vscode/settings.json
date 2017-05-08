@@ -1,0 +1,18 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "Content/Developers":true,
+        "Content/Collections":true,
+        "Intermediate":true,
+        "Config":true,
+        "Saved":true,
+        "**/*.uasset":true,
+        "**/*.umap":true,
+        "**/*.uplugin":true,
+        "Content/Scripts/node_modules":true
+    }    
+}

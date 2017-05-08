@@ -1,0 +1,10 @@
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content/Collections
+/Content/Developers
+/Content/Scripts/node_modules
+/Content/Scripts/*.js
+/Content/Scripts/typings/*.d.ts
+/Plugins
